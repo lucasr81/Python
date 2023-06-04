@@ -2,7 +2,7 @@
 """ 
 Variávies são um recurso usado pelas linguagem de programação
 para armazenar valores.
-Isso permiti o python manipular variaveis basicas como strings (palavras ou cadeias de caracteres), 
+Isso permite o python manipular variáveis basicas como strings (palavras ou cadeias de caracteres), 
 inteiros e reais (float)
 """
 #Exemplos:
