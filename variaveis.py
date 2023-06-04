@@ -1,5 +1,6 @@
+
 """ 
-Variavies são um recurso usado pelas linguagem de programação
+Variávies são um recurso usado pelas linguagem de programação
 para armazenar valores.
 Isso permiti o python manipular variaveis basicas como strings (palavras ou cadeias de caracteres), 
 inteiros e reais (float)
@@ -17,5 +18,11 @@ print(pi)
 
 """
 Aqui foram feitas três atribuições. A primeira foi  uma string para uma variável chamada mensagem. 
-a variavel 2 foi atribuído o valor inteiro 25 para n, e na terceira variavel, um valor decimal  pi.
+a variavel 2 foi atribuído o valor inteiro 25 para n, e na terceira variável, um valor decimal  pi.
 """
+#Programa para calcular dois número
+
+num1 = 10
+num2 = 80
+soma = num1 + num2
+print("A soma dos valores: ", soma)
